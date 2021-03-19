@@ -1,0 +1,13 @@
+body {
+    background-color: primary;
+}
+.jumbotron {
+    padding-top: 2rem;
+    background-color:primary;
+}
+#project {
+    background-color:white;
+}
+#about {
+    background-color:white;
+}
