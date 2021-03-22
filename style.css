@@ -1,16 +1,20 @@
 body {
     background-color: primary;
+    height: 2000px;
 }
 .jumbotron {
-    padding-top: 6rem;
+    padding-top: 10rem;
     background-color:primary;
 }
 
-.project {
+.job {
     background-color:white;
-    padding-top: 6rem;
+    padding-top: 10rem;
 }
 .about {
     background-color:white;
-    padding-top: 6rem;
+    padding-top: 10rem;
+}
+.contact {
+    padding-top: 10rem;
 }
