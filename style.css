@@ -18,3 +18,9 @@ body {
 .contact {
     padding-top: 10rem;
 }
+#label {
+    text-decoration-color: green;
+}
+* ,*::after, ::before {
+box-sizing: border-box;
+}
