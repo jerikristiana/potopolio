@@ -4,23 +4,19 @@ body {
 }
 .jumbotron {
     padding-top: 10rem;
-    background-color:primary;
+    background-size: cover;
+    background-image: url("job.jpg");
 }
-
-.job {
-    background-color:white;
-    padding-top: 10rem;
+#job {
+        background-image: url("poke.jpg");
+        background-size: cover;    
 }
-.about {
-    background-color:white;
-    padding-top: 10rem;
+#about {
+    background-image: url("color.jpg");
+    background-size: cover;
+    text-emphasis-color: white;
 }
-.contact {
-    padding-top: 10rem;
-}
-#label {
-    text-decoration-color: green;
-}
-* ,*::after, ::before {
-box-sizing: border-box;
+#contact {
+    background-image: url("jumbotron.jpg");
+    background-size: cover;
 }
